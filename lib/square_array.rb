@@ -1,2 +1,4 @@
 def square_array(array)
-new_array=[1,]
+array=[1,2,3]
+array.while [|num| num**2]
+end
